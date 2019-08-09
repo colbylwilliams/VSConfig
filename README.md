@@ -13,3 +13,7 @@ Visual Studio > Tools > Options > Environment > Keyboard
 
 Parallels > Preferences > Shortcuts
 - Add `⌘/` -> `Ctrl+/`
+
+### Don't copy blank lines to clipboard
+Visual Studio > Tools > Options > Text Editor > All Languages > General
+- Uncheck "Apply Cut or Copy to blank lines when there is no selection"
