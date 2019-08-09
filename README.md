@@ -1,7 +1,7 @@
 # VSConfig
 
-### Toggle Comments with ⌘+/
-Visual Studio > Tools > Options > Environment > Keyboard
+## Toggle Comments with ⌘+/
+**Visual Studio > Tools > Options > Environment > Keyboard**
 - `Edit.CommentSelection`
     - Remove `Ctrl+/ (Text Editor)`
 - `Edit.UncommentSelection`
@@ -11,9 +11,11 @@ Visual Studio > Tools > Options > Environment > Keyboard
     - Remove `Ctrl+K+, Ctrl+/ (Text Editor)`
     - Assign `Ctrl+/ (Global`)
 
-Parallels > Preferences > Shortcuts
+**Parallels > Preferences > Shortcuts**
 - Add `⌘/` -> `Ctrl+/`
 
-### Don't copy blank lines to clipboard
-Visual Studio > Tools > Options > Text Editor > All Languages > General
-- Uncheck "Apply Cut or Copy to blank lines when there is no selection"
+
+## Don't copy blank lines to clipboard
+
+**Visual Studio > Tools > Options > Text Editor > All Languages > General**
+- Uncheck _"Apply Cut or Copy to blank lines when there is no selection"_
