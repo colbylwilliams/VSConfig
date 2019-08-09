@@ -1,5 +1,10 @@
 # VSConfig
 
+## Contents
+
+- [Toggle Comments with ⌘+/](#toggle-comments-with-)
+- [Don't copy blank lines to clipboard](#dont-copy-blank-lines-to-clipboard)
+
 ## Toggle Comments with ⌘+/
 **Visual Studio > Tools > Options > Environment > Keyboard**
 - `Edit.CommentSelection`
